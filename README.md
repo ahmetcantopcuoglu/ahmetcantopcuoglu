@@ -37,7 +37,7 @@ More projects on my GitHub profile!
 
 🔗 Connect with Me
 
-LinkedIn: linkedin.com/in/ahmetcantopcuoglu
+[LinkedIn: ahmetcantopcuoglu](https://linkedin.com/in/ahmetcantopcuoglu)
 
 Email: ahmetcantopcuoglu@gmail.com
 
