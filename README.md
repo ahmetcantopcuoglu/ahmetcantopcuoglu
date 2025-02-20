@@ -6,11 +6,11 @@ I'm a junior software developer and chemical engineer who is passionate about mo
 
 🔨 Tech Stack
 
-Languages: Kotlin, Java
+Languages: Kotlin, JavaScript
 
-Android Development: Android SDK, Room Database, ViewBinding, Retrofit, RecyclerView
+Android Development: Android SDK, Room Database, ViewBinding, RecyclerView
 
-Database: SQLite, MySQL
+Database: MySQL,MongoDB
 
 Version Control: Git, GitHub
 
