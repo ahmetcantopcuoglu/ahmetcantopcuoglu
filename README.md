@@ -7,26 +7,60 @@ I'm a junior software developer and chemical engineer who is passionate about mo
 🔨 Tech Stack
 
 ## Languages
-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="40" height="40"/>
+  </a>
+</p>
 
 ## Android Development
-- ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-- ![Room Database](https://img.shields.io/badge/Room%20Database-6200EE?style=for-the-badge&logo=android&logoColor=white)
-- ![ViewBinding](https://img.shields.io/badge/ViewBinding-6200EE?style=for-the-badge&logo=android&logoColor=white)
-- ![RecyclerView](https://img.shields.io/badge/RecyclerView-6200EE?style=for-the-badge&logo=android&logoColor=white)
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/reference/android/arch/persistence/room/package-summary" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Room%20Database-6200EE?style=for-the-badge&logo=android&logoColor=white" alt="Room Database" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/reference/android/view/ViewBinding" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ViewBinding-6200EE?style=for-the-badge&logo=android&logoColor=white" alt="ViewBinding" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/RecyclerView-6200EE?style=for-the-badge&logo=android&logoColor=white" alt="RecyclerView" width="40" height="40"/>
+  </a>
+</p>
 
 ## Database
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="40" height="40"/>
+  </a>
+</p>
 
 ## Version Control
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
 
 ## Tools & IDEs
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" width="40" height="40"/>
+  </a>
+</p>
 
 
 
