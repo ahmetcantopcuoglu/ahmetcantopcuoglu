@@ -28,6 +28,10 @@ More projects on my GitHub profile!
 
 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetcantopcuoglu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcantopcuoglu&layout=compact&theme=radical)
+
 
 
 
