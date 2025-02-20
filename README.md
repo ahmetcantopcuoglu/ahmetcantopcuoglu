@@ -18,9 +18,11 @@ Tools & IDEs: Android Studio, Visual Studio Code
 
 📱 My Projects
 
-Yastık Altı App - A financial tracking app for managing currency and gold investments. https://play.google.com/store/apps/details?id=com.yastikalti.app&hl=tr
+[Yastık Altı App](https://play.google.com/store/apps/details?id=com.yastikalti.app&hl=tr) - A financial tracking app for managing currency and gold investments.
 
-Egitici Matematik Game - A simple math game available on Google Play.   https://play.google.com/store/apps/details?id=com.PTAGameCraft.EiticiMatematik&hl=tr
+
+[Egitici Matematik Game](https://play.google.com/store/apps/details?id=com.PTAGameCraft.EiticiMatematik&hl=tr) - A simple math game available on Google Play.
+
 
 More projects on my GitHub profile!
 
